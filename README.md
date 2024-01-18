@@ -1,1 +1,8 @@
-I have learn regarding heading element which envisage about the basic details of Highlight the headings in a convient form . which imbibed 6 elements h1 h2
+I have learned about the heading element which envisages the basic details of Highlighting the headings in a convenient form. which imbibed 6 elements :
+H1
+H2 
+H3 
+H4
+H5
+H6
+
